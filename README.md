@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/spacecraft-capillary-heat-pipe-explainer/
 
+Repository: https://github.com/mizcausevic-dev/spacecraft-capillary-heat-pipe-explainer
+
 ## What this is
 
 An interactive anatomy plate for Spacecraft Capillary Heat Pipe. Play, scrub, or jump the five stages. The same frame always draws the same picture.
